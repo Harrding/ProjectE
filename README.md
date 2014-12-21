@@ -1,9 +1,15 @@
 ProjectE
 ==============
 
-This directory contains my Python Projects that I will be doing over a period of time. I am not sure how
-long I will be doing this, but hopefully as long as possible. These projects are taken from Martyr2's Mega
-Project list, which, in my opinion, contains a range from easy to difficult things.  
+This project will be called Project Excalibur because just cause I felt like naming something cool to this.
+However, it's not actually as cool as the name...unless you think this is cool...then someone's weird and
+it might be me.
+This directory contains my Python Projects that I found online at Martyr2's Mega Projects list. These seem fun
+and so I guess I'll just start to work on these while I have free time. I might skip around to do a bit more variety
+because I don't want to be stuck with a single project that I find rather difficult. Everything will be written in 
+Python because these had the original intention of helping me learn Python. I'm still a novice at Python the language
+and so I hope to learn a lot from this, ranging from things like GUI programming to networking. Seems fun!
+
 
 ==============================================================================================
 
