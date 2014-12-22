@@ -7,7 +7,7 @@ def printSomething():
     button.pack()
 
 def openFile():
-    file object
+    filewin=Toplevel(root)
 
 def menuOpen():
     fileOpen = Toplevel(root)
